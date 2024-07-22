@@ -1,4 +1,4 @@
-<br></br>
+<br>
 
 <p align="center">
   <img alt="profile" src="./public/profile.jpg" height="400px" width="350px">
